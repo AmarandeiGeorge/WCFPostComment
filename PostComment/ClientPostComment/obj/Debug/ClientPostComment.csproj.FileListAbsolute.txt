@@ -1,0 +1,9 @@
+C:\Users\Gorgo\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.csprojAssemblyReference.cache
+C:\Users\Gorgo\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.Form1.resources
+C:\Users\Gorgo\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.Properties.Resources.resources
+C:\Users\Gorgo\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.csproj.GenerateResource.cache
+C:\Users\Gorgo\source\repos\PostComment\ClientPostComment\bin\Debug\ClientPostComment.exe.config
+C:\Users\Gorgo\source\repos\PostComment\ClientPostComment\bin\Debug\ClientPostComment.exe
+C:\Users\Gorgo\source\repos\PostComment\ClientPostComment\bin\Debug\ClientPostComment.pdb
+C:\Users\Gorgo\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.exe
+C:\Users\Gorgo\source\repos\PostComment\ClientPostComment\obj\Debug\ClientPostComment.pdb
